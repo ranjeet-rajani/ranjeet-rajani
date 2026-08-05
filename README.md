@@ -21,7 +21,7 @@ Based in Fairfield, Iowa · Authorized to work in the US
 
 ## Projects
 
-### 🏥 [Pharma Commercial Analytics Command Center](https://github.com/ranjeet-rajani/pharma-Commercial-Analytics-command-center)
+### 🏥 [Pharma Commercial Analytics Command Center](https://github.com/ranjeet-rajani/pharma-commercial-analytics-command-center)
 
 `Power BI` · `DAX` · `SQL` · `Power Query` · `Star Schema Modeling`
 
