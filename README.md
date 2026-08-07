@@ -33,6 +33,8 @@ A seven-page executive report that traces a **$4.34M revenue shortfall** to its 
 
 > The interesting finding wasn't *who* missed quota. Every territory did. It was *why* — because seven of them didn't have product on the shelf, and coaching those teams would have achieved nothing.
 
+📓 Same analysis reproduced in R: [Kaggle notebook](https://www.kaggle.com/code/ranjeetkumarrajani/pharma-commercial-analytics-command-center)
+
 ### 🚲 [Cyclistic Bike-Share Analysis](https://github.com/ranjeet-rajani/cyclistic-bike-share-analysis)
 
 `R` · `tidyverse` · `ggplot2` · `Google Data Analytics Capstone`
@@ -70,5 +72,7 @@ Analysis of **4.3M bike-share rides** comparing casual riders and annual members
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjeet-rajani/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ranjeetkumarrajanii@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ranjeetkumarrajani)
+
+**Also on Kaggle:** [Pharma Commercial Analytics — R notebook](https://www.kaggle.com/code/ranjeetkumarrajani/pharma-commercial-analytics-command-center) · [Cyclistic Capstone](https://www.kaggle.com/code/ranjeetkumarrajani/cyclistic-capstone-project-google-data-analytics)
 
 Open to Business Analyst, Commercial Analyst, Sales Operations Analyst, Healthcare Analyst, and SAP/ERP Business Analyst roles.
