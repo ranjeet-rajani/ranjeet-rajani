@@ -63,11 +63,11 @@ Analysis of **4.3M bike-share rides** comparing casual riders and annual members
 
 ## Background
 
-**MBA, Enterprise Resource Planning (ERP) & SAP** — Maharishi International University, Fairfield IA · *expected September 2026*
+**MBA, Enterprise Resource Planning (ERP) & SAP** — Maharishi International University, Fairfield IA · *expected October 2028*
 
 **Google Data Analytics Professional Certificate** — SQL, R, Tableau, data cleaning, visualization
 
-**20+ years in pharmaceutical commercial roles** — Ferozsons Laboratories, CCL Pharmaceuticals, Getz Pharma. Regional and zonal sales leadership, national product launches, P&L ownership across Pakistan.
+**15+ years in pharmaceutical commercial roles** — Ferozsons Laboratories, CCL Pharmaceuticals, Getz Pharma. Regional and zonal sales leadership, national product launches across Pakistan.
 
 ---
 
