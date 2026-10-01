@@ -50,10 +50,12 @@ Analysis of **4.3M bike-share rides** comparing casual riders and annual members
 ## Skills
 
 
+|  |  |
 | --- | --- |
 | **Analytics** | Power BI (DAX, Power Query, star schema modeling) · SQL · R / tidyverse · Advanced Excel · AI-assisted workflows |
 | **Business** | Requirements gathering · Stakeholder reporting · KPI definition · Sales forecasting · CRM/SFA (MRep) |
 | **ERP (supporting)** | SAP S/4HANA exposure through MBA coursework · Business process mapping · Gap analysis |
+
 
 
 
