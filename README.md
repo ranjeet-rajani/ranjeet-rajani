@@ -79,4 +79,5 @@ Analysis of **4.3M bike-share rides** comparing casual riders and annual members
 
 **Also on Kaggle:** [Pharma Commercial Analytics — R notebook](https://www.kaggle.com/code/ranjeetkumarrajani/pharma-commercial-analytics-command-center) · [Cyclistic Capstone](https://www.kaggle.com/code/ranjeetkumarrajani/cyclistic-capstone-project-google-data-analytics)
 
-Open to Business Analyst, Commercial Analyst, Sales Operations Analyst, Healthcare Analyst, and SAP/ERP Business Analyst roles.
+Open to Business Analyst, Commercial Analyst, Sales Operations Analyst, and Healthcare Analyst roles.
+
