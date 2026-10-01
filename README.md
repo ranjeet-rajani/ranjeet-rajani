@@ -11,11 +11,11 @@
 
 ## About
 
-Business Analyst with hands-on **SAP S/4HANA (FI/CO, MM, PP)** configuration experience and an **MBA in Enterprise Resource Planning**, translating 20+ years of pharmaceutical commercial leadership into enterprise systems and analytics.
+Business Analyst with **15+ years of pharmaceutical commercial leadership**, now translating frontline sales experience into analytics — **Power BI, SQL, R, and AI-assisted workflows** — as an **MBA candidate in Enterprise Resource Planning**.
 
-I spent two decades running sales teams, P&Ls, and product launches — which means I know which questions are worth asking before I open a dataset. The analytics is what lets me answer them.
+I spent 15+ years running sales teams and product launches, which means I know which questions are worth asking before I open a dataset. The analytics is what lets me answer them.
 
-Based in Fairfield, Iowa · Authorized to work in the US
+Based in Fairfield, Iowa · Open to work across the US
 
 ---
 
